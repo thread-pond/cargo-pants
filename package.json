@@ -1,0 +1,9 @@
+{
+  "name": "cargo-pants",
+  "version": "1.0.0",
+  "description": "A collection of useful JavaScript utilities",
+  "main": "index.js",
+  "repository": "https://github.com/thread-pond/cargo-pants",
+  "author": "Robert Fletcher",
+  "license": "MIT"
+}
